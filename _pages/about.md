@@ -8,11 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+Hi! I'm a fourth-year Accounting PhD candidate at the University of Hong Kong [Business School](https://www.hkubs.hku.hk/glocal/), with a focus on supply chain, taxation, climate, and accounting regulations. My research delves into the unintended economic impacts of public policies on supply chains and the role of production network in amplifying/propagating these effects.
 
-I am a fourth-year PhD candidate in Accounting at Business School of [the University of Hong Kong](https://www.hku.hk/). My research focuses on the economical impact of fiscal policy and accounting regulation. My interests also extend to inter-firm financing and supply chain risk.
+Before studying business and economics, I was a PhD candidate in Chemistry, spending three years at the [Okinawa Institute of Science and Technology](https://www.oist.jp/) and [Hong Kong University of Science and Technology](https://hkust.edu.hk/), specializing in computational and biophysical chemistry. I receievd my Bachelor of Food Science from [Jilin University](https://global.jlu.edu.cn/)in 2017, ranking first out of 123.
 
-I hold a Mphil in computational chemistry from [Hong Kong University of Science and Technology](https://hkust.edu.hk/) and a B.S. in science from [Jilin University](https://global.jlu.edu.cn/). Before studying accounting and economics, I also spent two and half years in [JQ Huang Lab](https://small.hkust.edu.hk/Publications.html) doing research in computational and physical chemistry as PhD candidate. In my spare time, I enjoy running, hiking and playing basketball.
+Currently, I am a visiting PhD student at [Olin Business School of Washington University in St. Louis](https://olin.wustl.edu/) , invited by Prof. Xiumin Martin, from 2023 onwards.
 
-I am visiting PhD student at Olin Business School of Washington University at St. Louis from 2023-2024.
-
-Reach out to me: xliev [at] connect [dot] hku [dot] hk
+Reach out to me: xliev@connect.hku.hk
