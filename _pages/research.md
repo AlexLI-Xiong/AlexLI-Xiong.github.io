@@ -8,19 +8,19 @@ author_profile: true
 
 ### Job Market Paper
 [1] “Taxes and Non-debt Financing: Evidence from Trade Credit” 
-- Status: Under review, The Accounting Review
+- Stage: Under review, The Accounting Review
 - Brief: Analyzing state-level corporate income tax rate changes from 1998 to 2018, the result shows both tax increases and decreases result in reduced trade credit usage, particularly for firms with fewer covenant violations and better ex-ante liquidity positions. Analysis of customer-supplier data suggests that customer trade credit adjustments drive these effects, and reduced trade credit reliance propagates from treated states to other states through supply chain networks.
 
 
 ### Wokring Papers 
 
 [2] “Proprietary Costs and Supply Chain Collaboration” 
-- Status: Under review, Journal of Accounting and Economics
+- Stage: Under review, Journal of Accounting and Economics
 - With Wenzhi Ding (PolyU HK), Guoman She (HKU), and Guochang Zhang (HKU)
 - Brief: To understand how proprietary costs shape supply chain collaboration, we exploit three natural experiments that alter the risk of information misappropriation by major customers and their employees. We find that when information misappropriation risk is alleviated, suppliers expand sales to treatment customers, especially when customers’ incentives are less aligned with suppliers’ incentives and when suppliers have unique assets. Along with increased sales, suppliers’ R&D investments display greater responsiveness of R&D investment to their customers’ growth opportunities, and their patents become more integrated with their customers’ patents.
 
 [3] “Unlocking Hidden Gains: Real Effects of ASC 842 on Non-Intensive Users of Operating Leases” 
-- Status: Preparation for submission by the end of Nov, Journal of Accounting and Research
+- Stage: Preparation for 1st round submission to Journal of Accounting and Research, by the end of Nov. 2023
 - With Travis Chow (HKU), Doyeon Kim (HKU), and Guochang Zhang (HKU)
 - Brief: Using a difference-and-differences design, we find that ASC 842 results in a redistribution of trade credit among customers. Specifically, suppliers are reallocating trade credit from high-lease intensity customers to low-lease intensity customers. The increased trade credit resulting from ASC 842 positively impacts the performance of low lease-intensive firms, as evidenced by their sales growth, employment growth, and investment.
 
