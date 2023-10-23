@@ -16,20 +16,20 @@ author_profile: true
 
 [2] “Proprietary Costs and Supply Chain Collaboration” 
 - Stage: Under review, Journal of Accounting and Economics
-- With Wenzhi Ding (PolyU HK), Guoman She (HKU), and Guochang Zhang (HKU)
+- With [Wenzhi Ding](https://wenzhi-ding.com/index.html) (PolyU HK), [Guoman She](https://www.sheguoman.com/) (HKU), and [Guochang Zhang](https://www.hkubs.hku.hk/people/guochang-zhang/) (HKU)
 - Brief: To understand how proprietary costs shape supply chain collaboration, we exploit three natural experiments that alter the risk of information misappropriation by major customers and their employees. We find that when information misappropriation risk is alleviated, suppliers expand sales to treatment customers, especially when customers’ incentives are less aligned with suppliers’ incentives and when suppliers have unique assets. Along with increased sales, suppliers’ R&D investments display greater responsiveness of R&D investment to their customers’ growth opportunities, and their patents become more integrated with their customers’ patents.
 
 [3] “Unlocking Hidden Gains: Real Effects of ASC 842 on Non-Intensive Users of Operating Leases” 
 - Stage: Preparation for 1st round submission to Journal of Accounting and Research, by the end of Nov. 2023
-- With Travis Chow (HKU), Doyeon Kim (HKU), and Guochang Zhang (HKU)
+- With [Travis Chow](https://www.hkubs.hku.hk/people/travis-chow/) (HKU), Doyeon Kim (HKU), and [Guochang Zhang](https://www.hkubs.hku.hk/people/guochang-zhang/) (HKU)
 - Brief: Using a difference-and-differences design, we find that ASC 842 results in a redistribution of trade credit among customers. Specifically, suppliers are reallocating trade credit from high-lease intensity customers to low-lease intensity customers. The increased trade credit resulting from ASC 842 positively impacts the performance of low lease-intensive firms, as evidenced by their sales growth, employment growth, and investment.
 
 [4] “Filling the Monitoring Void: Lead Arranger Distraction and Borrower Disclosure” 
-- with Derrald Stice (HKU)
+- with [Derrald Stice](https://www.hkubs.hku.hk/people/derrald-stice/) (HKU)
 - Brief: We predict and find that borrowers with distracted lead arrangers will increase public disclosure to satisfy the information needs of non-lead arranger loan participants. The effect of distraction is more pronounced when. non-lead arranger loan participants wield greater bargaining power, exhibit heightened information needs, and when borrowers have higher credit risks. We document a relationship between distraction levels and more stringent loan terms for borrowers in the future, along with evidence that disclosure can mitigate these contracting costs.
 
 [5] “Unilateral Trust and Buyer-Supplier Disruption” 
-- with Yangyang Chen (CityU HK) and Cuili Qian (UT Dallas)
+- with [Yangyang Chen](https://www.cb.cityu.edu.hk/staff/ychen722/) (CityU HK) and [Cuili Qian](https://jindal.utdallas.edu/faculty/cuili-qian/) (UT Dallas)
 - Brief: Our findings reveal that CEO-inherited trust complements formal contracts and mitigates supply chain disruptions. The effects are most pronounced when suppliers have significant relationship-specific investments and limited capital redeployability, and when there is a greater information friction between the buyer and supplier. Furthermore, the buyer-supplier commits jointly to the CEO with higher inherited trust and achieves greater joint profitability.
 
 ### Selected Research in Progress 
@@ -42,7 +42,7 @@ author_profile: true
 - Brief: Using the Pair Agreement and the US exit from the Agreement as a shock to the climate policy uncertainty, we find that corporate investment negatively correlates with the increase and decrease in climate policy uncertainty. However, the energy sector shows an asymmetric response to the uncertainty, indicating their sensitivity to policy changes. This effect is more pronounced for firms that have ex-ante higher climate-related opportunities and ex-post climate-related exposure risks.
 
 [3] “Socially Responsible Suppliers: Evidence from Tax Transparency along Supply Chain
-- with Travis Chow (HKU)
+- with [Travis Chow](https://www.hkubs.hku.hk/people/travis-chow/) (HKU)
 
 ### Selected Publication (Science Domain) 
  
