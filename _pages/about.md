@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a fourth-year Accounting PhD candidate at the [University of Hong Kong Business School](https://www.hkubs.hku.hk/glocal/), with a focus on supply chain, taxation, climate, and accounting regulations. My research delves into the unintended economic impacts of public policies on supply chains and the role of production network in amplifying/propagating these effects.
+Hi! I'm a fourth-year Accounting PhD candidate at the [University of Hong Kong Business School](https://www.hkubs.hku.hk/glocal/), with a research focus on supply chain, taxation, climate, and accounting regulations. I am interested in exploring the unintended economic impacts of public policies/regulations on supply chains and the role of supply chain networks in amplifying/propagating these effects.
 
 Before studying business and economics, I was a PhD candidate in Chemistry, spending three years at the [Okinawa Institute of Science and Technology](https://www.oist.jp/) and [Hong Kong University of Science and Technology](https://hkust.edu.hk/), specializing in computational and biophysical chemistry. I received my Bachelor of Science from [Jilin University](https://global.jlu.edu.cn/) in 2017 (Rank:1/123).
 
