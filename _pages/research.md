@@ -137,6 +137,9 @@ author_profile: true
 
 ## Selected Research in Progress 
 
+[1] “Socially Responsible Suppliers: Evidence from Tax Transparency along Supply Chain“
+- With [Travis Chow](https://www.hkubs.hku.hk/people/travis-chow/) (HKU)
+
 <!-- [1] “Climate Policy Uncertainty and Corporate Investment” 
 - With Menghan Wang (HKU)
 - Brief: Using the Pair Agreement and the US exit from the Agreement as a shock to the climate policy uncertainty, we find that corporate investment negatively correlates with the increase and decrease in climate policy uncertainty. However, the energy sector shows an asymmetric response to the uncertainty, indicating their sensitivity to policy changes. This effect is more pronounced for firms that have ex-ante higher climate-related opportunities and ex-post climate-related exposure risks. -->
@@ -149,7 +152,7 @@ author_profile: true
     </figure>
   </div>
   <div style="flex: 60%;">
-    [1] “Climate Policy Uncertainty and Corporate Investment” 
+    [2] “Climate Policy Uncertainty and Corporate Investment” 
 
     <ul>
         <li>With <a href="https://menghan-wang.github.io/">Menghan Wang</a> (HKU)</li>
@@ -172,7 +175,7 @@ author_profile: true
     </figure>
   </div>
   <div style="flex: 60%;">
-    [2] “Supplier-Customer Culture Proximity and Supplier Selection” 
+    [3] “Supplier-Customer Culture Proximity and Supplier Selection” 
 
     <ul>
         <li>With <a href="https://www.hkubs.hku.hk/people/charles-kang/">Charles Kang</a> (HKU)</li>
@@ -182,10 +185,6 @@ author_profile: true
   </div>
 </div>
 
-
-
-[3] “Socially Responsible Suppliers: Evidence from Tax Transparency along Supply Chain
-- With [Travis Chow](https://www.hkubs.hku.hk/people/travis-chow/) (HKU)
 
 ## Selected Publication (Science Domain) 
  
