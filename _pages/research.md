@@ -102,7 +102,6 @@ author_profile: true
     [4] “Filling the Monitoring Void: Lead Arranger Distraction and Borrower Disclosure” 
 
     <ul>
-        <li>Stage: Preparation for 1st round submission to Journal of Accounting and Research, by the end of Nov. 2023</li>
         <li>With <a href="https://www.hkubs.hku.hk/people/derrald-stice/">Derrald Stice</a> (HKU)</li>
         <li>Brief: We predict and find that borrowers with distracted lead arrangers will increase public disclosure to satisfy the information needs of non-lead arranger loan participants. The effect of distraction is more pronounced when. non-lead arranger loan participants wield greater bargaining power, exhibit heightened information needs, and when borrowers have higher credit risks. We document a relationship between distraction levels and more stringent loan terms for borrowers in the future, along with evidence that disclosure can mitigate these contracting costs.</li>
     </ul>
@@ -190,7 +189,7 @@ author_profile: true
 
 ## Selected Publication (Science Domain) 
  
-[1] Li, X.; Pei, Y.; Zhang, Y.; Liu, Y.; Fu, W.; Li, J.; You, H.*; Huang, J.*, Single-molecule mechanical unfolding of AT-rich chromosomal fragile sites DNA hairpins: Resolving the thermodynamic and kinetic effects of single G-T mismatch. *The Journal of Physical Chemistry B*, 2020, 124, 42, 9365–9370. 
+[1] **Li, X.**; Pei, Y.; Zhang, Y.; Liu, Y.; Fu, W.; Li, J.; You, H.*; Huang, J.*, Single-molecule mechanical unfolding of AT-rich chromosomal fragile sites DNA hairpins: Resolving the thermodynamic and kinetic effects of single G-T mismatch. *The Journal of Physical Chemistry B*, 2020, 124, 42, 9365–9370. 
 - Featured as Cover Article, first author
 - Rank 36 out of 131 in category Materials Science, SCOPUS JOURNAL METRICS (2022)
 
