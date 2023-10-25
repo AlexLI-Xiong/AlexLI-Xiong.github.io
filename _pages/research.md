@@ -22,7 +22,7 @@ author_profile: true
   <div style="flex: 60%;">
     [1] “Taxes and Non-debt Financing: Evidence from Trade Credit”  
     <ul>
-        <li> Revise and Resubmit, The Accounting Review</li>
+        <li> Stage: Revise and Resubmit, The Accounting Review</li>
         <li>Brief: Analyzing state-level corporate income tax rate changes from 1998 to 2018, the result shows both tax increases and decreases result in reduced trade credit usage, particularly for firms with fewer covenant violations and better ex-ante liquidity positions. Analysis of customer-supplier data suggests that customer trade credit adjustments drive these effects, and reduced trade credit reliance propagates from treated states to other states through supply chain networks.</li>
     </ul>
     <!-- Add more bullet points as needed -->
@@ -142,10 +142,10 @@ author_profile: true
 
 <div style="display: flex;">
   <div style="flex: 40%; padding-right: 20px;">
-    <figure>
+    <!-- <figure> -->
       <!-- <img src="/files/Fig11.jpg" alt="Image Description"> -->
       <!-- <figcaption>Tax Rate Change and TC Changes</figcaption> -->
-    </figure>
+    <!-- </figure> -->
   </div>
   <div style="flex: 60%;">
     [1] “Socially Responsible Suppliers: Evidence from Tax Transparency along Supply Chain“
