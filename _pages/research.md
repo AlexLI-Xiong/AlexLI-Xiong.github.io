@@ -143,7 +143,7 @@ author_profile: true
 <div style="display: flex;">
   <div style="flex: 40%; padding-right: 20px;">
     <figure>
-      <img src="/files/Fig11.jpg" alt="Image Description">
+      <!-- <img src="/files/Fig11.jpg" alt="Image Description"> -->
       <!-- <figcaption>Tax Rate Change and TC Changes</figcaption> -->
     </figure>
   </div>
