@@ -137,8 +137,27 @@ author_profile: true
 
 ## Selected Research in Progress 
 
-[1] “Socially Responsible Suppliers: Evidence from Tax Transparency along Supply Chain“
-- With [Travis Chow](https://www.hkubs.hku.hk/people/travis-chow/) (HKU)
+<!-- [1] “Socially Responsible Suppliers: Evidence from Tax Transparency along Supply Chain“
+- With [Travis Chow](https://www.hkubs.hku.hk/people/travis-chow/) (HKU) -->
+
+<div style="display: flex;">
+  <div style="flex: 40%; padding-right: 20px;">
+    <figure>
+      <img src="/files/Fig11.jpg" alt="Image Description">
+      <!-- <figcaption>Tax Rate Change and TC Changes</figcaption> -->
+    </figure>
+  </div>
+  <div style="flex: 60%;">
+    [1] “Socially Responsible Suppliers: Evidence from Tax Transparency along Supply Chain“
+
+    <ul>
+        <li>With <a href="https://www.hkubs.hku.hk/people/travis-chow/">Travis Chow</a> (HKU)</li>
+    </ul>
+    <!-- Add more bullet points as needed -->
+  </div>
+</div>
+
+
 
 <!-- [1] “Climate Policy Uncertainty and Corporate Investment” 
 - With Menghan Wang (HKU)
