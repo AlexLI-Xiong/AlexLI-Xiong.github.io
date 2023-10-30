@@ -76,7 +76,7 @@ author_profile: true
     [3] “Unlocking Hidden Gains: Real Effects of ASC 842 on Non-Intensive Users of Operating Leases” 
 
     <ul>
-        <li>Stage: Preparation for 1st round submission to Journal of Accounting and Research, by the end of Nov. 2023</li>
+        <li>Stage: Preparation for 1st round submission to Journal of Accounting and Research, no later than end of Dec 203</li>
         <li>With <a href="https://www.hkubs.hku.hk/people/travis-chow/">Travis Chow</a> (HKU), <a href="https://www.hkubs.hku.hk/people/doyeon-kim/">Doyeon Kim</a> (HKU), and <a href="https://www.hkubs.hku.hk/people/guochang-zhang/">Guochang Zhang</a> (HKU)</li>
         <li>Brief: Using a difference-and-differences design, we find that ASC 842 results in a redistribution of trade credit among customers. Specifically, suppliers are reallocating trade credit from high-lease intensity customers to low-lease intensity customers. The increased trade credit resulting from ASC 842 positively impacts the performance of low lease-intensive firms, as evidenced by their sales growth, employment growth, and investment.</li>
     </ul>
