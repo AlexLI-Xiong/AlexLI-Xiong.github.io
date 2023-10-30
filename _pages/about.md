@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a 4th-year Accounting PhD  at [University of Hong Kong Business School](https://www.hkubs.hku.hk/glocal/), with a research focus on supply chain, taxation, climate, and accounting regulations.
+Hi! I'm a 4th-year Accounting PhD  at [University of Hong Kong Business School](https://www.hkubs.hku.hk/glocal/), where I am very fortunate to be advised by [Prof. Guochang Zhang](https://www.hkubs.hku.hk/people/guochang-zhang/), with a research focus on supply chain, taxation, and accounting regulations.
 
 Specifically, I am interested in exploring **underappreciated effects of various policies/regulations within the supply chain context** and the crucial **role of supply chain networks in transmitting these effects to the broader economy**. 
 
