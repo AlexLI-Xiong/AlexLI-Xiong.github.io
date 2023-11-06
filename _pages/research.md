@@ -73,7 +73,7 @@ author_profile: true
     </figure>
   </div>
   <div style="flex: 60%;">
-    [3] “Unlocking Hidden Gains: Real Effects of ASC 842 on Non-Intensive Users of Operating Leases” 
+    [3] “Unravelling the pooling equilibrium: How the introduction of ASC 842 triggers a reallocation of trade credit” (new draft!)
 
     <ul>
         <li>Stage: Preparation for 1st round submission to Journal of Accounting and Research, no later than the end of Dec 2023</li>
