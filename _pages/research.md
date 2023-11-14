@@ -76,7 +76,7 @@ author_profile: true
     [3] “Unravelling the pooling equilibrium: How the introduction of ASC 842 triggers a reallocation of trade credit” (new draft!)
 
     <ul>
-        <li>Stage: Preparation for 1st round submission to Journal of Accounting and Research, no later than the end of Dec 2023</li>
+        <li>Stage: Target on Journal of Accounting Research, submit soon by Dec 2023</li>
         <li>With <a href="https://www.hkubs.hku.hk/people/travis-chow/">Travis Chow</a> (HKU), <a href="https://www.hkubs.hku.hk/people/doyeon-kim/">Doyeon Kim</a> (HKU), and <a href="https://www.hkubs.hku.hk/people/guochang-zhang/">Guochang Zhang</a> (HKU)</li>
         <li>Brief: Using a difference-and-differences design, we find that ASC 842 results in a redistribution of trade credit among customers. Specifically, suppliers are reallocating trade credit from high-lease intensity customers to low-lease intensity customers. The increased trade credit resulting from ASC 842 positively impacts the performance of low lease-intensive firms, as evidenced by their sales growth, employment growth, and investment.</li>
     </ul>
@@ -102,7 +102,8 @@ author_profile: true
     [4] “Filling the Monitoring Void: Lead Arranger Distraction and Borrower Disclosure” 
 
     <ul>
-        <li>With <a href="https://www.hkubs.hku.hk/people/derrald-stice/">Derrald Stice</a> (HKU)</li>
+        <li>Stage: Target on Journal of Accounting and Economics </li>
+        <li>With <a href="https://www.hkubs.hku.hk/people/derrald-stice/">Derrald Stice</a> (HKU)</li>, and <a href="https://sites.google.com/site/christopherwilliamsphd/">Christopher Williams</a> (U of Michigan)</li>
         <li>Brief: We predict and find that borrowers with distracted lead arrangers will increase public disclosure to satisfy the information needs of non-lead arranger loan participants. The effect of distraction is more pronounced when non-lead arranger loan participants wield greater bargaining power, exhibit heightened information needs, and when borrowers have higher credit risks. We document a relationship between distraction levels and more stringent loan terms for borrowers in the future, along with evidence that disclosure can mitigate these contracting costs.</li>
     </ul>
     <!-- Add more bullet points as needed -->
@@ -128,6 +129,7 @@ author_profile: true
     [5] “Unilateral Trust and Buyer-Supplier Disruption” 
 
     <ul>
+        <li>Stage: Target on Management Science</li>
         <li>With <a href="https://www.cb.cityu.edu.hk/staff/ychen722/">Yangyang Chen</a> (CityU HK), and <a href="https://jindal.utdallas.edu/faculty/cuili-qian/">Cuili Qian</a> (UT Dallas)</li>
         <li>Brief: Our findings reveal that CEO-inherited trust complements formal contracts and mitigates supply chain disruptions. The effects are most pronounced when suppliers have significant relationship-specific investments and limited capital redeployability, and when there is a greater information friction between the buyer and supplier. Furthermore, the buyer-supplier commits jointly to the CEO with higher inherited trust and achieves greater joint profitability.</li>
     </ul>
