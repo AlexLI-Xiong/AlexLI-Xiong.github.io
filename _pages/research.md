@@ -103,7 +103,7 @@ author_profile: true
 
     <ul>
         <li>Stage: Target on Journal of Accounting and Economics </li>
-        <li>With <a href="https://www.hkubs.hku.hk/people/derrald-stice/">Derrald Stice</a> (HKU)</li>, and <a href="https://sites.google.com/site/christopherwilliamsphd/">Christopher Williams</a> (U of Michigan)</li>
+        <,>With <a href="https://www.hkubs.hku.hk/people/derrald-stice/">Derrald Stice</a> (HKU), and <a href="https://sites.google.com/site/christopherwilliamsphd/">Christopher Williams</a> (U of Michigan)</li>
         <li>Brief: We predict and find that borrowers with distracted lead arrangers will increase public disclosure to satisfy the information needs of non-lead arranger loan participants. The effect of distraction is more pronounced when non-lead arranger loan participants wield greater bargaining power, exhibit heightened information needs, and when borrowers have higher credit risks. We document a relationship between distraction levels and more stringent loan terms for borrowers in the future, along with evidence that disclosure can mitigate these contracting costs.</li>
     </ul>
     <!-- Add more bullet points as needed -->
