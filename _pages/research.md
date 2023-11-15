@@ -201,25 +201,10 @@ author_profile: true
   </div>
 </div>
 
-
-<!-- 
-<div style="display: flex;">
-  <div style="flex: 40%; padding-right: 20px;">
-    <figure>
-      <img src="/files/Fig8.png" alt="Image Description">
-      <!-- <figcaption>Tax Rate Change and TC Changes</figcaption> -->
-    </figure>
-  </div>
-  <div style="flex: 60%;">
-    [3] “Supplier-Customer Culture Proximity and Supplier Selection” 
-
-    <ul>
-        <li>With <a href="https://www.hkubs.hku.hk/people/charles-kang/">Charles Kang</a> (HKU)</li>
-        <li>Brief: We leverage the Factset Supply Chain database to pinpoint the inception year of customer-supplier relationships spanning from 2001 to 2019. By employing the TNIC code, we discern the top 10 peers, and employ the Mahalanobis distance method to ascertain the pseudo supplier. Our findings indicate that potential suppliers exhibiting a higher degree of cultural proximity are more likely to evolve into actual suppliers in the future. </li>
-    </ul>
-    <!-- Add more bullet points as needed -->
-  </div>
-</div> -->
+   <!-- [3] “Supplier-Customer Culture Proximity and Supplier Selection” 
+   With <a href="https://www.hkubs.hku.hk/people/charles-kang/" Charles Kan
+  Brief: We leverage the Factset Supply Chain database to pinpoint the inception year of customer-supplier relationships spanning from 2001 to 2019. By employing the TNIC code, we discern the top 10 peers, and employ the Mahalanobis distance method to ascertain the pseudo supplier. Our findings indicate that potential suppliers exhibiting a higher degree of cultural proximity are more likely to evolve into actual suppliers in the future. 
+  -->
 
 
 ## Selected Publication (Science Domain) 
