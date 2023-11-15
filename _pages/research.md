@@ -150,7 +150,25 @@ author_profile: true
     <!-- </figure> -->
   </div>
   <div style="flex: 60%;">
-    [1] “Socially Responsible Suppliers: Evidence from Tax Transparency along Supply Chain“
+    [1] “Reexamine the Effectiveness of PPP: the Role of Supply Chain“
+
+    <ul>
+        <li>With <a href="https://www.xiuminmartinwustl.com/">Xiumin Martin</a> (HKU)</li>
+    </ul>
+    <!-- Add more bullet points as needed -->
+  </div>
+</div>
+
+
+<div style="display: flex;">
+  <div style="flex: 40%; padding-right: 20px;">
+    <!-- <figure> -->
+      <!-- <img src="/files/Fig11.jpg" alt="Image Description"> -->
+      <!-- <figcaption>Tax Rate Change and TC Changes</figcaption> -->
+    <!-- </figure> -->
+  </div>
+  <div style="flex: 60%;">
+    [2] “Socially Responsible Suppliers: Evidence from Tax Transparency along Supply Chain“
 
     <ul>
         <li>With <a href="https://www.hkubs.hku.hk/people/travis-chow/">Travis Chow</a> (HKU)</li>
@@ -173,7 +191,7 @@ author_profile: true
     </figure>
   </div>
   <div style="flex: 60%;">
-    [2] “Climate Policy Uncertainty and Corporate Investment” 
+    [3] “Climate Policy Uncertainty and Corporate Investment” 
 
     <ul>
         <li>With <a href="https://menghan-wang.github.io/">Menghan Wang</a> (HKU)</li>
@@ -184,10 +202,7 @@ author_profile: true
 </div>
 
 
- 
-<!-- [2] “Supplier-Customer Culture Proximity and Supplier Selection” 
-- With Charles Kang -->
-
+<!-- 
 <div style="display: flex;">
   <div style="flex: 40%; padding-right: 20px;">
     <figure>
@@ -204,7 +219,7 @@ author_profile: true
     </ul>
     <!-- Add more bullet points as needed -->
   </div>
-</div>
+</div> -->
 
 
 ## Selected Publication (Science Domain) 
