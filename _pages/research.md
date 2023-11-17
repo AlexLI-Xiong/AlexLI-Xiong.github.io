@@ -153,7 +153,7 @@ author_profile: true
     [1] “Reexamine the Effectiveness of PPP: the Role of Supply Chain“
 
     <ul>
-        <li>With <a href="https://www.xiuminmartinwustl.com/">Xiumin Martin</a> (HKU)</li>
+        <li>With <a href="https://www.xiuminmartinwustl.com/">Xiumin Martin</a> (WashU in St. Louis)</li>
     </ul>
     <!-- Add more bullet points as needed -->
   </div>
