@@ -76,7 +76,7 @@ author_profile: true
     [3] “Unravelling the pooling equilibrium: How the introduction of ASC 842 triggers a reallocation of trade credit” (new draft!)
 
     <ul>
-        <li>Stage: Target on Journal of Accounting Research, submit soon by Dec 2023</li>
+        <li>Stage: Revising for submission to Journal of Accounting Research, soon by end of Dec 2023</li>
         <li>With <a href="https://www.hkubs.hku.hk/people/travis-chow/">Travis Chow</a> (HKU), <a href="https://www.hkubs.hku.hk/people/doyeon-kim/">Doyeon Kim</a> (HKU), and <a href="https://www.hkubs.hku.hk/people/guochang-zhang/">Guochang Zhang</a> (HKU)</li>
         <li>Brief: Using a difference-and-differences design, we find that ASC 842 results in a redistribution of trade credit among customers. Specifically, suppliers are reallocating trade credit from high-lease intensity customers to low-lease intensity customers. The increased trade credit resulting from ASC 842 positively impacts the performance of low lease-intensive firms, as evidenced by their sales growth, employment growth, and investment.</li>
     </ul>
@@ -102,7 +102,7 @@ author_profile: true
     [4] “Filling the Monitoring Void: Lead Arranger Distraction and Borrower Disclosure” 
 
     <ul>
-        <li>Stage: Target on Journal of Accounting and Economics </li>
+        <!-- <li>Stage: Target on Journal of Accounting and Economics </li> -->
         <li>With <a href="https://www.hkubs.hku.hk/people/derrald-stice/">Derrald Stice</a> (HKU), and <a href="https://sites.google.com/site/christopherwilliamsphd/">Christopher Williams</a> (U of Michigan)</li>
         <li>Brief: We predict and find that borrowers with distracted lead arrangers will increase public disclosure to satisfy the information needs of non-lead arranger loan participants. The effect of distraction is more pronounced when non-lead arranger loan participants wield greater bargaining power, exhibit heightened information needs, and when borrowers have higher credit risks. We document a relationship between distraction levels and more stringent loan terms for borrowers in the future, along with evidence that disclosure can mitigate these contracting costs.</li>
     </ul>
@@ -129,7 +129,7 @@ author_profile: true
     [5] “Unilateral Trust and Buyer-Supplier Disruption” 
 
     <ul>
-        <li>Stage: Target on Management Science</li>
+        <!-- <li>Stage: Target on Management Science</li> -->
         <li>With <a href="https://www.cb.cityu.edu.hk/staff/ychen722/">Yangyang Chen</a> (CityU HK), and <a href="https://jindal.utdallas.edu/faculty/cuili-qian/">Cuili Qian</a> (UT Dallas)</li>
         <li>Brief: Our findings reveal that CEO-inherited trust complements formal contracts and mitigates supply chain disruptions. The effects are most pronounced when suppliers have significant relationship-specific investments and limited capital redeployability, and when there is a greater information friction between the buyer and supplier. Furthermore, the buyer-supplier commits jointly to the CEO with higher inherited trust and achieves greater joint profitability.</li>
     </ul>
@@ -143,23 +143,6 @@ author_profile: true
 - With [Travis Chow](https://www.hkubs.hku.hk/people/travis-chow/) (HKU) -->
 
 
-
-<div style="display: flex;">
-  <div style="flex: 40%; padding-right: 20px;">
-    <!-- <figure> -->
-      <!-- <img src="/files/Fig11.jpg" alt="Image Description"> -->
-      <!-- <figcaption>Tax Rate Change and TC Changes</figcaption> -->
-    <!-- </figure> -->
-  </div>
-  <div style="flex: 60%;">
-    [1] “Socially Responsible Suppliers: Evidence from Tax Transparency along Supply Chain“
-
-    <ul>
-        <li>With <a href="https://www.hkubs.hku.hk/people/travis-chow/">Travis Chow</a> (HKU)</li>
-    </ul>
-    <!-- Add more bullet points as needed -->
-  </div>
-</div>
 
 
 
@@ -175,7 +158,7 @@ author_profile: true
     </figure>
   </div>
   <div style="flex: 60%;">
-    [2] “Climate Policy Uncertainty and Corporate Investment” 
+    [1] “Climate Policy Uncertainty and Corporate Investment” 
 
     <ul>
         <li>With <a href="https://menghan-wang.github.io/">Menghan Wang</a> (HKU)</li>
@@ -185,6 +168,7 @@ author_profile: true
   </div>
 </div>
 
+
 <div style="display: flex;">
   <div style="flex: 40%; padding-right: 20px;">
     <!-- <figure> -->
@@ -193,7 +177,26 @@ author_profile: true
     <!-- </figure> -->
   </div>
   <div style="flex: 60%;">
-    [1] “Does New Lease Accounting Standard （ASC 842）Affect Bond Market Pricing?“
+    [2] “Socially Responsible Suppliers: Evidence from Tax Transparency along Supply Chain“
+
+    <ul>
+        <li>With <a href="https://www.hkubs.hku.hk/people/travis-chow/">Travis Chow</a> (HKU)</li>
+    </ul>
+    <!-- Add more bullet points as needed -->
+  </div>
+</div>
+
+
+
+<div style="display: flex;">
+  <div style="flex: 40%; padding-right: 20px;">
+    <!-- <figure> -->
+      <!-- <img src="/files/Fig11.jpg" alt="Image Description"> -->
+      <!-- <figcaption>Tax Rate Change and TC Changes</figcaption> -->
+    <!-- </figure> -->
+  </div>
+  <div style="flex: 60%;">
+    [3] “Does New Lease Accounting Standard (ASC 842) Affect Bond Market Pricing?“
 
     <ul>
         <li>With <a href="https://www.xiuminmartinwustl.com/">Xiumin Martin</a> (WashU in St. Louis)</li>
