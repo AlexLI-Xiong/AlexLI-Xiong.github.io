@@ -142,22 +142,6 @@ author_profile: true
 <!-- [1] “Socially Responsible Suppliers: Evidence from Tax Transparency along Supply Chain“
 - With [Travis Chow](https://www.hkubs.hku.hk/people/travis-chow/) (HKU) -->
 
-<div style="display: flex;">
-  <div style="flex: 40%; padding-right: 20px;">
-    <!-- <figure> -->
-      <!-- <img src="/files/Fig11.jpg" alt="Image Description"> -->
-      <!-- <figcaption>Tax Rate Change and TC Changes</figcaption> -->
-    <!-- </figure> -->
-  </div>
-  <div style="flex: 60%;">
-    [1] “Reexamine the Effectiveness of PPP: the Role of Supply Chain“
-
-    <ul>
-        <li>With <a href="https://www.xiuminmartinwustl.com/">Xiumin Martin</a> (WashU in St. Louis)</li>
-    </ul>
-    <!-- Add more bullet points as needed -->
-  </div>
-</div>
 
 
 <div style="display: flex;">
@@ -168,7 +152,7 @@ author_profile: true
     <!-- </figure> -->
   </div>
   <div style="flex: 60%;">
-    [2] “Socially Responsible Suppliers: Evidence from Tax Transparency along Supply Chain“
+    [1] “Socially Responsible Suppliers: Evidence from Tax Transparency along Supply Chain“
 
     <ul>
         <li>With <a href="https://www.hkubs.hku.hk/people/travis-chow/">Travis Chow</a> (HKU)</li>
@@ -191,7 +175,7 @@ author_profile: true
     </figure>
   </div>
   <div style="flex: 60%;">
-    [3] “Climate Policy Uncertainty and Corporate Investment” 
+    [2] “Climate Policy Uncertainty and Corporate Investment” 
 
     <ul>
         <li>With <a href="https://menghan-wang.github.io/">Menghan Wang</a> (HKU)</li>
@@ -200,6 +184,26 @@ author_profile: true
     <!-- Add more bullet points as needed -->
   </div>
 </div>
+
+<div style="display: flex;">
+  <div style="flex: 40%; padding-right: 20px;">
+    <!-- <figure> -->
+      <!-- <img src="/files/Fig11.jpg" alt="Image Description"> -->
+      <!-- <figcaption>Tax Rate Change and TC Changes</figcaption> -->
+    <!-- </figure> -->
+  </div>
+  <div style="flex: 60%;">
+    [1] “Does New Lease Accounting Standard （ASC 842）Affect Bond Market Pricing?“
+
+    <ul>
+        <li>With <a href="https://www.xiuminmartinwustl.com/">Xiumin Martin</a> (WashU in St. Louis)</li>
+    </ul>
+    <!-- Add more bullet points as needed -->
+  </div>
+</div>
+
+
+
 
    <!-- [3] “Supplier-Customer Culture Proximity and Supplier Selection” 
    With <a href="https://www.hkubs.hku.hk/people/charles-kang/" Charles Kan
