@@ -23,7 +23,7 @@ author_profile: true
     “Are Private Firms Disadvantaged vis-à-vis Public Firms in the Trade Credit Market”  
     <ul>
         <li> <B> Solo-authored Disseration, 2024 </B></li>
-        <li> <B> Presentations: WashU Brownbag (May, 2024) </B></li>
+        <li> <B> Presentations: WashU Brownbag (May 2024) </B></li>
         <li>Brief: Contrary to conventional view, private firms are at a disadvantage in trade credit markets compared to public firms. This differential treatment is attributed to their varying levels of commitment to stakeholders.</li>
     </ul>
     <!-- Add more bullet points as needed -->
