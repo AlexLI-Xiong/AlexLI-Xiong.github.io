@@ -22,6 +22,8 @@ My research approaches this field from two key perspectives: *microeconomic cont
 
 On the macroeconomic side, I examine how trade credit networks act as stabilizing forces within the broader economy, especially during periods of fiscal uncertainty and crises like COVID-19. By bridging these perspectives, my work aims to contribute valuable insights into both the micro and macro roles of trade credit in financial stability.
 
+<!-- Prior to joining the Ph.D. program in 2020, I received B.S. and MPhil in Chemistry from Jilin University and Hong Kong University of Science and Technology, respectively. -->
+
 <!-- Currently, I am visiting PhD student at Washington University in St. Louis, until Nov 2024.  -->
 
 <!-- My research intrests focus on niche research area on trade credit market. Sepcailly, I examine it  from both microeconomic contracting persepctive ( interacted accouting reporting and regulation) and marcroeconomic implications (tax, covid, et al.).
