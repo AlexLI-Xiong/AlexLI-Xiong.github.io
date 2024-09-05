@@ -23,8 +23,8 @@ author_profile: true
     “Are Private Firms Disadvantaged vis-à-vis Public Firms in the Trade Credit Market”  
     <ul>
         <li> <B> Solo-authored Disseration, 2024 </B></li>
-        <li> <B> Presentations: WashU Brownbag (May 2024) </B></li>
-        <li>Brief: Contrary to conventional view, private firms are at a disadvantage in trade credit markets compared to public firms. This differential treatment is attributed to their varying levels of commitment to stakeholders.</li>
+        <li> <B> Presentations: Washington University in St. Louis Brownbag (May 2024), BFGA 2024 (Scheduled) </B></li>
+        <li>Abstract: I find that private European Union firms receive significantly less supplier credit than public firms, contrary to conventional view that private firms depend more on supplier credit for financing. I posit that public listing commits firms to greater responsibilities to stakeholders, enhancing suppliers’ confidence in firms’ responsible behavior and raising their willingness to offer trade credit. Using public firms’ mandatory IFRS adoption as a disclosure shock that helps enforce this commitment, I find a significantly negative spillover effect on supplier credit allocated to private firms, especially for firms exhibiting higher counterparty risk to suppliers and greater demand for supplier credit. Notably, this result cannot be explained by information effects alone. In contrast, based on two (reverse) regulatory shocks that increase private firms’ disclosure, I find weak negative spillover effects on supplier credit for public firms. Together, these asymmetrical spillover effects transmitted between private and public firms indicate that private firms are disadvantaged against public firms in the supplier credit market.</li>
     </ul>
     <!-- Add more bullet points as needed -->
   </div>
