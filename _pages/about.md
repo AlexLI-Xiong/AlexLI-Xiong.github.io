@@ -16,13 +16,13 @@ On the ***microeconomic level***, I investigate how accounting reporting and reg
 
 On the ***macroeconomic level***, my research seeks to deepen the understanding of how trade credit networks can act as stabilizing forces within the economy, particularly during periods of financial uncertainty and policy shifts, such as those seen during fiscal policy adjustments and the COVID-19 crisis. -->
 
-Hi! I’m a 5th-year Accounting PhD candidate at University of Hong Kong, [Business School](https://www.hkubs.hku.hk/glocal/)., specializing in the **trade credit market**—a niche but vital area in accounting and finance.
+Hi! I’m a 5th-year Accounting PhD candidate at [University of Hong Kong](https://www.hkubs.hku.hk/glocal/), specializing in the **trade credit market**—a niche but vital area in accounting and finance.
 
 My research approaches this field from two key perspectives: *microeconomic contracting* and *macroeconomic implications*. On the microeconomic side, I explore how accounting reporting and regulatory frameworks influence the redistribution of trade credit, emphasizing the often-overlooked costs and benefits these frameworks impose on firms.
 
 On the macroeconomic side, I examine how trade credit networks act as stabilizing forces within the broader economy, especially during periods of fiscal uncertainty and crises like COVID-19. By bridging these perspectives, my work aims to contribute valuable insights into both the micro and macro roles of trade credit in financial stability.
 
-Before starting my academic journey in accounting, I earned a Master’s degree in Chemistry from the Hong Kong University of Science and Technology and a Bachelor’s degree in Science from Jilin University.
+Before starting my academic journey in accounting, I earned a Master’s degree in Chemistry from the *Hong Kong University of Science and Technology* and a Bachelor’s degree in Science from *Jilin University*.
 
 <!-- Currently, I am visiting PhD student at Washington University in St. Louis, until Nov 2024.  -->
 
