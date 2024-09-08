@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- Hi! I'm a 5th-year Accounting PhD  at [HKU Business School](https://www.hkubs.hku.hk/glocal/).
 
-My research interests focus on a niche yet significant area: the ***trade credit market***. My work primarily explores two key dimensions of this field: *microeconomic contracting* and *macroeconomic implicatioins*. 
+My research interests focus on a niche but vital area: the ***trade credit market***. My work primarily explores two key dimensions of this field: *microeconomic contracting* and *macroeconomic implicatioins*. 
 
 On the ***microeconomic level***, I investigate how accounting reporting and regulation results in a redistribution of trade credit. This research sheds light on the unintended costs and benefits that regulatory frameworks and financial disclosures impose on the trade credit market. 
 
