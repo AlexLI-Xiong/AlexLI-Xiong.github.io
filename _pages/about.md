@@ -17,7 +17,9 @@ On the ***microeconomic level***, I investigate how accounting reporting and reg
 On the ***macroeconomic level***, my research seeks to deepen the understanding of how trade credit networks can act as stabilizing forces within the economy, particularly during periods of financial uncertainty and policy shifts, such as those seen during fiscal policy adjustments and the COVID-19 crisis. -->
 
 Hi! I’m a 5th-year Accounting PhD candidate at [University of Hong Kong](https://www.hkubs.hku.hk/glocal/). My research focuses on the trade credit market, a niche but critical area in accounting and finance. 
+
 Over the past three decades, many important theoretical and empirical studies on trade credit have come from the fields of finance and economics, while accounting research seems to have lagged behind. Although accounting research has increasingly focused on how accounting information affects the supply and demand of trade credit, a holistic view of how accounting information affects thetrade credit market at whole and how trade credit networks function in the macroeconomy is still lacking. My research aims to fill this gap by providing an original and innovative perspective to deepen the understanding of trade credit from both microeconomic and macroeconomic perspectives. My research also expands the traditional motivation - the "financing advantage motivation" to incorporate other key drivers of trade credit, such as tax and product quality assurance considerations.
+
 Before starting my academic journey in accounting, I earned a Master’s degree in Chemistry from the *Hong Kong University of Science and Technology* and a Bachelor’s degree in Science from *Jilin University*.
 
 <!-- Currently, I am visiting PhD student at Washington University in St. Louis, until Nov 2024.  -->
