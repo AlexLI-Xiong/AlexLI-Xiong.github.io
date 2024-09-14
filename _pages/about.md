@@ -22,7 +22,7 @@ Hi! I’m a 5th-year Accounting PhD candidate at [University of Hong Kong](https
 
 In recent decades, most important research on trade credit has come from finance and economics, with accounting slightly lagging behind. While accounting research has increasingly focused on the impact of accounting information on trade credit decisions, a holistic view of its impact on the trade credit market at whole and the role of trade credit networks in the macroeconomy is still missing. My research fills this gap, providing original and innovative insights by bridging both micro and macro perspectives, and expanding the traditional "financing advantage" motivation to include factors such as taxation and quality warranty consideration through empirical evidence.
 
-Before starting my academic journey in accounting, I earned a MPhil degree in Chemistry from the Hong Kong University of Science and Technology and a Bachelor’s degree in Food Science from Jilin University. 
+Before starting my academic journey in accounting, I was a physical chemistry researcher. I received my Mphil degree in Chemistry from Hong Kong University of Science and Technology ([my first author paper was featured as the cover article](https://pubs.acs.org/toc/jpcbfk/124/42)) and Bachelor’s degree in Food Science from Jilin University. 
 
 <!-- Currently, I am visiting PhD student at Washington University in St. Louis, until Nov 2024.  -->
 
