@@ -45,8 +45,6 @@ Before I started my academic journey in accounting, I was a physical chemistry r
 
 Outside of academia, I enjoy running, hiking, cycling, reading, and playing violin.
 
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -56,6 +54,7 @@ Outside of academia, I enjoy running, hiking, cycling, reading, and playing viol
         .row {
             display: flex;
             justify-content: space-around;
+            margin-bottom: 20px;
         }
         .column {
             text-align: center;
@@ -64,26 +63,54 @@ Outside of academia, I enjoy running, hiking, cycling, reading, and playing viol
             width: 200px;
             height: 200px;
         }
+        .group {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+        }
+        .group-title {
+            text-align: center;
+            margin-top: 10px;
+        }
     </style>
     <title>Four Pictures in a Row</title>
 </head>
 <body>
+    <!-- First set of images with individual subtitles -->
     <div class="row">
         <div class="column">
-            <img src="imageA.jpg" alt="Picture A">
+            <img src="/files/imageA.jpg" alt="Picture A">
             <h3>Subtitle A</h3>
         </div>
         <div class="column">
-            <img src="imageB.jpg" alt="Picture B">
+            <img src="/files/imageB.jpg" alt="Picture B">
             <h3>Subtitle B</h3>
         </div>
         <div class="column">
-            <img src="imageC.jpg" alt="Picture C">
+            <img src="/files/imageC.jpg" alt="Picture C">
             <h3>Subtitle C</h3>
         </div>
         <div class="column">
-            <img src="imageD.jpg" alt="Picture D">
+            <img src="/files/imageD.jpg" alt="Picture D">
             <h3>Subtitle D</h3>
+        </div>
+    </div>
+
+    <!-- New section with grouped images and shared titles -->
+    <div class="row">
+        <div class="column">
+            <div class="group">
+                <img src="/files/image1.jpg" alt="Picture 1">
+                <img src="/files/image2.jpg" alt="Picture 2">
+            </div>
+            <h3 class="group-title">Title for 1 & 2</h3>
+        </div>
+        <div class="column">
+            <div class="group">
+                <img src="/files/image3.jpg" alt="Picture 3">
+                <img src="/files/image4.jpg" alt="Picture 4">
+            </div>
+            <h3 class="group-title">Title for 3 & 4</h3>
         </div>
     </div>
 </body>
