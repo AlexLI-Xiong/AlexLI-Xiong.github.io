@@ -45,7 +45,9 @@ Before I started my academic journey in accounting, I was a physical chemistry r
 
 Outside of academia, I enjoy running, hiking, cycling, reading, and playing violin.
 
-<!-- <!DOCTYPE html>
+
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -73,42 +75,22 @@ Outside of academia, I enjoy running, hiking, cycling, reading, and playing viol
             margin-top: 10px;
         }
     </style>
-    <title>Four Pictures in a Row</title>
+    <title>Grouped Pictures</title>
 </head>
 <body>
-    <!-- First set of images with individual subtitles -->
-    <div class="row">
-        <div class="column">
-            <img src="/files/imageA.JPG" alt="Picture A">
-            <h3>Subtitle A</h3>
-        </div>
-        <div class="column">
-            <img src="/files/imageB.JPG" alt="Picture B">
-            <h3>Subtitle B</h3>
-        </div>
-        <div class="column">
-            <img src="/files/imageC.JPG" alt="Picture C">
-            <h3>Subtitle C</h3>
-        </div>
-        <div class="column">
-            <img src="/files/imageD.JPG" alt="Picture D">
-            <h3>Subtitle D</h3>
-        </div>
-    </div> -->
-
     <!-- New section with grouped images and shared titles -->
     <div class="row">
         <div class="column">
             <div class="group">
-                <img src="/files/image1.JPG" alt="Picture 1">
-                <img src="/files/image2.JPG" alt="Picture 2">
+                <img src="/files/imageA.JPG" alt="Picture 1">
+                <img src="/files/imageB.JPG" alt="Picture 2">
             </div>
             <h3 class="group-title">Title for 1 & 2</h3>
         </div>
         <div class="column">
             <div class="group">
-                <img src="/files/image3.JPG" alt="Picture 3">
-                <img src="/files/image4.JPG" alt="Picture 4">
+                <img src="/files/imageC.JPG" alt="Picture 3">
+                <img src="/files/imageD.JPG" alt="Picture 4">
             </div>
             <h3 class="group-title">Title for 3 & 4</h3>
         </div>
