@@ -46,12 +46,10 @@ Before I started my academic journey in accounting, I was a physical chemistry r
 Outside of academia, I enjoy running, hiking, cycling, reading, and playing violin.
 
 
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grouped Pictures</title>
     <style>
         .row {
             display: flex;
@@ -60,10 +58,6 @@ Outside of academia, I enjoy running, hiking, cycling, reading, and playing viol
         }
         .column {
             text-align: center;
-        }
-        img {
-            width: 200px;
-            height: 200px;
         }
         .group {
             display: flex;
@@ -74,26 +68,88 @@ Outside of academia, I enjoy running, hiking, cycling, reading, and playing viol
             text-align: center;
             margin-top: 10px;
         }
+        /* Lightbox styles */
+        .lightbox {
+            display: none;
+            position: fixed;
+            z-index: 999;
+            padding-top: 60px;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            overflow: auto;
+            background-color: rgba(0,0,0,0.9);
+        }
+        .lightbox:target {
+            display: block;
+        }
+        .lightbox-content {
+            margin: auto;
+            display: block;
+            max-width: 80%;
+            max-height: 80%;
+        }
+        .close {
+            position: absolute;
+            top: 20px;
+            right: 35px;
+            color: #fff;
+            font-size: 40px;
+            font-weight: bold;
+            text-decoration: none;
+        }
+        .close:hover,
+        .close:focus {
+            color: #bbb;
+            text-decoration: none;
+            cursor: pointer;
+        }
     </style>
-    <title>Grouped Pictures</title>
 </head>
 <body>
     <!-- New section with grouped images and shared titles -->
     <div class="row">
         <div class="column">
             <div class="group">
-                <img src="/files/imageA.JPG" alt="Picture 1">
-                <img src="/files/imageB.JPG" alt="Picture 2">
+                <a href="#img1">
+                    <img src="/files/imageA.JPG" alt="Picture 1">
+                </a>
+                <a href="#img2">
+                    <img src="/files/imageB.JPG" alt="Picture 2">
+                </a>
             </div>
-            <h3 class="group-title">Title for 1 & 2</h3>
+            <h3 class="group-title">Title for 1 &amp; 2</h3>
         </div>
         <div class="column">
             <div class="group">
-                <img src="/files/imageC.JPG" alt="Picture 3">
-                <img src="/files/imageD.JPG" alt="Picture 4">
+                <a href="#img3">
+                    <img src="/files/imageC.JPG" alt="Picture 3">
+                </a>
+                <a href="#img4">
+                    <img src="/files/imageD.JPG" alt="Picture 4">
+                </a>
             </div>
-            <h3 class="group-title">Title for 3 & 4</h3>
+            <h3 class="group-title">Title for 3 &amp; 4</h3>
         </div>
+    </div>
+
+    <!-- Lightbox Modals -->
+    <div id="img1" class="lightbox">
+        <a href="#" class="close">&times;</a>
+        <img class="lightbox-content" src="/files/imageA.JPG" alt="Picture 1 Enlarged">
+    </div>
+    <div id="img2" class="lightbox">
+        <a href="#" class="close">&times;</a>
+        <img class="lightbox-content" src="/files/imageB.JPG" alt="Picture 2 Enlarged">
+    </div>
+    <div id="img3" class="lightbox">
+        <a href="#" class="close">&times;</a>
+        <img class="lightbox-content" src="/files/imageC.JPG" alt="Picture 3 Enlarged">
+    </div>
+    <div id="img4" class="lightbox">
+        <a href="#" class="close">&times;</a>
+        <img class="lightbox-content" src="/files/imageD.JPG" alt="Picture 4 Enlarged">
     </div>
 </body>
 </html>
