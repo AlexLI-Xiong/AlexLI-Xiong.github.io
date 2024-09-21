@@ -34,11 +34,59 @@ On the ***macroeconomic level***, my research seeks to deepen the understanding 
 Before studying accounting, I was a PhD candidate in Chemistry, spending three years at [Hong Kong University of Science and Technology](https://hkust.edu.hk/). I received my Bachelor of Science from [Jilin University](https://global.jlu.edu.cn/) in 2017 (Rank:1/123). -->
 
 
-Hi, I am Alex Li, a 5th year Ph.D. Candidate in Accounting at HKU Business School. 
+<!-- Hi, my name is Alex Li. I grow up in Wuhan, China. I purse my master and PHborn and raised in Wuhan, China, and I am currently a 5th PhD Candidate  majoring in Accounting at the Hong Kong University Business School. -->
+<!-- Hi, I am Alex Li, a 5th year Ph.D. Candidate in Accounting at HKU Business School. I grow up in Wuhan, China and live in Hong Kong for nearly seven years. I
 
-Before I started my academic journey in accounting, I was a physical chemistry researcher. I received my Master’s degree in Chemistry from the Hong Kong University of Science and Technology ([my first author paper was featured as the cover article](https://pubs.acs.org/cms/10.1021/jpcbfk.2020.124.issue-42/asset/jpcbfk.2020.124.issue-42.xlargecover-2.jpg)) and my Bachelor’s degree in Food Science from Jilin University.
+Hi, I am Alex Li, a 5th year Ph.D. Candidate in Accounting at HKU Business School. I grew up in Wuhan, China, and have lived in Hong Kong for nearly seven years. I’ve loved Hong Kong music and movies since I was very young, and I’m a fan of Leslie Cheung and George Lam ([10.12 Inches](https://www.youtube.com/watch?v=l64xsDNAXVs)). -->
 
-Outside of academia, I enjoy running, hiking, cycling, and playing violin.
+Hi, I’m Alex Li, a fifth-year PhD student in Accounting at HKU Business School. I grew up in Wuhan, China, and have lived in Hong Kong for nearly seven years. From a young age, I enjoyed Hong Kong movies and music with my father, and I’m a fan of Leslie Cheung and George Lam([10.12 Inches](https://www.youtube.com/watch?v=l64xsDNAXVs)).
+
+Before I started my academic journey in accounting, I was a physical chemistry researcher. I received my Mphil’s degree in Chemistry from the Hong Kong University of Science and Technology ([my first author paper was featured as the cover article](https://pubs.acs.org/cms/10.1021/jpcbfk.2020.124.issue-42/asset/jpcbfk.2020.124.issue-42.xlargecover-2.jpg)) and my Bachelor’s degree in Food Science from Jilin University.
+
+Outside of academia, I enjoy running, hiking, cycling, reading, and playing violin.
 
 
-Reach out to me: xliev@connect.hku.hk
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .row {
+            display: flex;
+            justify-content: space-around;
+        }
+        .column {
+            text-align: center;
+        }
+        img {
+            width: 200px;
+            height: 200px;
+        }
+    </style>
+    <title>Four Pictures in a Row</title>
+</head>
+<body>
+    <div class="row">
+        <div class="column">
+            <img src="imageA.jpg" alt="Picture A">
+            <h3>Subtitle A</h3>
+        </div>
+        <div class="column">
+            <img src="imageB.jpg" alt="Picture B">
+            <h3>Subtitle B</h3>
+        </div>
+        <div class="column">
+            <img src="imageC.jpg" alt="Picture C">
+            <h3>Subtitle C</h3>
+        </div>
+        <div class="column">
+            <img src="imageD.jpg" alt="Picture D">
+            <h3>Subtitle D</h3>
+        </div>
+    </div>
+</body>
+</html>
+
+<!-- Reach out to me: xliev@connect.hku.hk -->
