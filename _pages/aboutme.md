@@ -46,7 +46,7 @@ Before pursuing accounting, I was a physical chemistry researcher. I earned my M
 In my free time, I enjoy running, hiking, cycling, reading, and playing the violin.
 
 
-<html lang="en">
+<!-- <html lang="en">
 <head>
     <meta charset="UTF-8">
     <title>Grouped Pictures</title>
@@ -152,6 +152,63 @@ In my free time, I enjoy running, hiking, cycling, reading, and playing the viol
         <img class="lightbox-content" src="/files/imageD.JPG" alt="Picture 4 Enlarged">
     </div>
 </body>
+</html> -->
+
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Grouped Pictures</title>
+    <style>
+        .row {
+            display: flex;
+            justify-content: space-around;
+            margin-bottom: 20px;
+        }
+        .column {
+            text-align: center;
+        }
+        img {
+            width: auto;
+            height: auto;
+            max-width: 100%;
+        }
+        .group {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+        }
+        .group-title {
+            text-align: center;
+            margin-top: 10px;
+        }
+        /* Ensure images 3 and 4 have similar sizes */
+        .group2 img {
+            width: 200px; /* Set desired width */
+            height: auto;  /* Maintain aspect ratio */
+        }
+    </style>
+</head>
+<body>
+    <!-- New section with grouped images and shared titles -->
+    <div class="row">
+        <div class="column">
+            <div class="group group1">
+                <img src="/files/imageA.JPG" alt="Picture 1">
+                <img src="/files/imageB.JPG" alt="Picture 2">
+            </div>
+            <!-- <h3 class="group-title">Title for 1 & 2</h3> -->
+        </div>
+        <div class="column">
+            <div class="group group2">
+                <img src="/files/imageC.JPG" alt="Picture 3">
+                <img src="/files/imageD.JPG" alt="Picture 4">
+            </div>
+            <!-- <h3 class="group-title">Title for 3 & 4</h3> -->
+        </div>
+    </div>
+</body>
 </html>
+
 
 <!-- Reach out to me: xliev@connect.hku.hk -->
