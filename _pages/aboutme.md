@@ -46,6 +46,38 @@ Before pursuing accounting, I was a physical chemistry researcher. I earned my M
 In my free time, I enjoy running, hiking, cycling, reading, and playing the violin.
 
 
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <title>四张照片排列</title>
+    <style>
+        .row {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 20px;
+        }
+        .row img {
+            width: 200px; /* 可根据需要调整尺寸 */
+            height: auto;
+            margin: 0 10px;
+        }
+    </style>
+</head>
+<body>
+    <!-- 第一排 -->
+    <div class="row">
+        <img src="/files/imageA.JPG" alt="照片A">
+        <img src="/files/imageB.JPG" alt="照片B">
+    </div>
+    <!-- 第二排 -->
+    <div class="row">
+        <img src="/files/imageC.JPG" alt="照片C">
+        <img src="/files/imageD.JPG" alt="照片D">
+    </div>
+</body>
+</html>
+
+
 <!-- <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -154,61 +186,6 @@ In my free time, I enjoy running, hiking, cycling, reading, and playing the viol
 </body>
 </html> -->
 
-
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Grouped Pictures</title>
-    <style>
-        .row {
-            display: flex;
-            justify-content: space-around;
-            margin-bottom: 20px;
-        }
-        .column {
-            text-align: center;
-        }
-        img {
-            width: auto;
-            height: auto;
-            max-width: 100%;
-        }
-        .group {
-            display: flex;
-            justify-content: center;
-            gap: 20px;
-        }
-        .group-title {
-            text-align: center;
-            margin-top: 10px;
-        }
-        /* Ensure images 3 and 4 have similar sizes */
-        .group2 img {
-            width: 200px; /* Set desired width */
-            height: auto;  /* Maintain aspect ratio */
-        }
-    </style>
-</head>
-<body>
-    <!-- New section with grouped images and shared titles -->
-    <div class="row">
-        <div class="column">
-            <div class="group group1">
-                <img src="/files/imageA.JPG" alt="Picture 1">
-                <img src="/files/imageB.JPG" alt="Picture 2">
-            </div>
-            <!-- <h3 class="group-title">Title for 1 & 2</h3> -->
-        </div>
-        <div class="column">
-            <div class="group group2">
-                <img src="/files/imageC.JPG" alt="Picture 3">
-                <img src="/files/imageD.JPG" alt="Picture 4">
-            </div>
-            <!-- <h3 class="group-title">Title for 3 & 4</h3> -->
-        </div>
-    </div>
-</body>
-</html>
 
 
 <!-- Reach out to me: xliev@connect.hku.hk -->
