@@ -45,7 +45,51 @@ Before pursuing accounting, I was a physical chemistry researcher. I earned my M
 
 In my free time, I enjoy running, hiking, cycling, reading, and playing the violin.
 
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <title>自适应四张照片排列</title>
+    <style>
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            max-width: 100%;
+        }
+        .row {
+            display: flex;
+            width: 100%;
+            justify-content: center;
+        }
+        .row img {
+            max-width: 45%; /* 每张图片占父容器宽度的45% */
+            height: auto;
+            margin: 5px;
+        }
+        @media (max-width: 600px) {
+            .row img {
+                max-width: 90%; /* 在小屏幕上每张图片占据更大宽度 */
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- 第一排 -->
+        <div class="row">
+            <img src="/files/imageA.JPG" alt="照片A">
+            <img src="/files/imageB.JPG" alt="照片B">
+        </div>
+        <!-- 第二排 -->
+        <div class="row">
+            <img src="/files/imageC.JPG" alt="照片C">
+            <img src="/files/imageD.JPG" alt="照片D">
+        </div>
+    </div>
+</body>
+</html>
 
+<!-- 
 <html lang="zh">
 <head>
     <meta charset="UTF-8">
@@ -75,7 +119,7 @@ In my free time, I enjoy running, hiking, cycling, reading, and playing the viol
         <img src="/files/imageD.JPG" alt="照片D">
     </div>
 </body>
-</html>
+</html> -->
 
 
 <!-- <html lang="en">
