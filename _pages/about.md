@@ -24,6 +24,8 @@ My research interests broadly pertain to archival financial accounting research,
 
  While accounting research has increasingly focused on the impact of accounting information on trade credit decisions, a holistic view of its impact on the trade credit market and the role of trade credit networks in the macroeconomy is still missing. My research fills this gap by bridging both micro and macro perspectives, and expanding the traditional "financing advantage" motivation to include factors such as taxation and quality warranty consideration through empirical evidence.
 
+ I am very fortunate to be advised by Prof. Guochang Zhang, Prof. Travis Chow, and Prof. Derrald Stice.
+
 <!-- Before starting my academic journey in accounting, I was a physical chemistry researcher. I received my Mphil degree in Chemistry from Hong Kong University of Science and Technology ([my first author paper was featured as the cover article](https://pubs.acs.org/cms/10.1021/jpcbfk.2020.124.issue-42/asset/jpcbfk.2020.124.issue-42.xlargecover-2.jpg)) and Bachelor’s degree in Food Science from Jilin University.  -->
 
 <!-- Currently, I am visiting PhD student at Washington University in St. Louis, until Nov 2024.  -->
