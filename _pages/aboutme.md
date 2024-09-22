@@ -39,11 +39,11 @@ Before studying accounting, I was a PhD candidate in Chemistry, spending three y
 
 Hi, I am Alex Li, a 5th year Ph.D. Candidate in Accounting at HKU Business School. I grew up in Wuhan, China, and have lived in Hong Kong for nearly seven years. I’ve loved Hong Kong music and movies since I was very young, and I’m a fan of Leslie Cheung and George Lam ([10.12 Inches](https://www.youtube.com/watch?v=l64xsDNAXVs)). -->
 
-Hi, I’m Alex Li, a fifth-year PhD student in Accounting at HKU Business School. I grew up in Wuhan, China, and have lived in Hong Kong for nearly seven years. From a young age, I enjoyed Hong Kong movies and music with my father, and I’m a fan of Leslie Cheung and George Lam([10.12 Inches](https://www.youtube.com/watch?v=l64xsDNAXVs)).
+Hi, I’m Alex Li, a fifth-year PhD student in Accounting at HKU Business School. I grew up in Wuhan, China, and have lived in Hong Kong for nearly seven years. From a young age, I enjoyed Hong Kong movies and music with my father, and I’m a fan of Leslie Cheung and George Lam ([10.12 Inches](https://www.youtube.com/watch?v=l64xsDNAXVs)).
 
-Before I started my academic journey in accounting, I was a physical chemistry researcher. I received my Mphil’s degree in Chemistry from the Hong Kong University of Science and Technology ([my first author paper was featured as the cover article](https://pubs.acs.org/cms/10.1021/jpcbfk.2020.124.issue-42/asset/jpcbfk.2020.124.issue-42.xlargecover-2.jpg)) and my Bachelor’s degree in Food Science from Jilin University.
+Before pursuing accounting, I was a physical chemistry researcher. I earned my MPhil in Chemistry from the Hong Kong University of Science and Technology ([my first author paper was featured as the cover article](https://pubs.acs.org/cms/10.1021/jpcbfk.2020.124.issue-42/asset/jpcbfk.2020.124.issue-42.xlargecover-2.jpg)) and a Bachelor’s degree in Food Science from Jilin University.
 
-Outside of academia, I enjoy running, hiking, cycling, reading, and playing violin.
+In my free time, I enjoy running, hiking, cycling, reading, and playing the violin.
 
 
 <html lang="en">
@@ -119,7 +119,7 @@ Outside of academia, I enjoy running, hiking, cycling, reading, and playing viol
                     <img src="/files/imageB.JPG" alt="Picture 2">
                 </a>
             </div>
-            <h3 class="group-title">Title for 1 &amp; 2</h3>
+            <!-- <h3 class="group-title"> laser projection optical path construction</h3> -->
         </div>
         <div class="column">
             <div class="group">
@@ -130,7 +130,7 @@ Outside of academia, I enjoy running, hiking, cycling, reading, and playing viol
                     <img src="/files/imageD.JPG" alt="Picture 4">
                 </a>
             </div>
-            <h3 class="group-title">Title for 3 &amp; 4</h3>
+            <!-- <h3 class="group-title">Title for 3 &amp; 4</h3> -->
         </div>
     </div>
 
