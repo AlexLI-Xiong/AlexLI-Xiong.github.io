@@ -24,11 +24,11 @@ author_profile: true
     <ul>
         <li> Solo-authored, 2024 </li>
         <!-- <li> Presentations: Washington University in St Louis Brown Bag (2024) </li> -->
-        <li> Abstract: I find that private European Union firms receive significantly less supplier credit than public firms,contrary to conventional view that private firms depend more on supplier credit for financing. I posit that public listing commits firms to greater responsibilities to stakeholders, enhancing suppliers’ confidence in firms’ responsible behavior and raising their willingness to offer trade credit. Using public firms’ mandatory IFRS adoption as a disclosure shock that helps enforce this commitment, I find a significantly negative spillover effect on supplier credit allocated to private firms, especially for firms exhibiting higher counterparty risk to suppliers and greater demand for supplier credit. Notably, this result cannot be explained by information effects alone. In contrast, based on two (reverse) regulatory shocks that increase private firms’ commitment, I find weak negative spillover effects on supplier credit for public firms. Together, these asymmetrical spillover effects transmitted between private and public firms indicate that private firms are disadvantaged against public firms in the supplier credit market.</li>
+        <li> Updated Abstract: I find that private firms in the European Union receive significantly less supplier credit than public firms, contrary to conventional view that private firms rely more on it for financing. I posit that public listing commits firms to higher level of disclosure, reducing suppliers’ perceived risk and raising their willingness to extend credit. Using the mandatory adoption of IFRS for public firms as a shock enforcing this commitment, I find a significantly negative spillover effect on supplier credit for private firms, particularly those with higher default risk and greater credit demand. This finding cannot be explained solely by the incremental information effect, suggesting the dominant and non-fully substitutable nature of the commitment effect in this context. Reverse regulatory shocks that enhance private firms’ commitment show negative but weaker spillover effects on public firms. Overall, my evidence shows that disclosure commitment disadvantages private firms in the trade credit market, revising the understanding of their access to credit and reconciling debates on the role of public disclosure in trade credit decisions.</li>
     </ul>
     <!-- Add more bullet points as needed -->
   </div>
 </div>
 
 <br>
-
+ **(The draft is available upon request, and comments and suggestions are welcome)**
