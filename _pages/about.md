@@ -18,11 +18,21 @@ On the ***macroeconomic level***, my research seeks to deepen the understanding 
 
 Hi! I'm a 5th-year Accounting PhD candidate at University of Hong Kong. I will be on the 2024-2025 academic job market.
 
-My research interests broadly pertain to archival financial accounting research, specialising in accounting/trade credit market interface.
+<!-- My research interests broadly pertain to archival financial accounting research, specialising in accounting/trade credit market interface. -->
+
+<!-- My research primarly focus on the area of supply chain financing, a area with cross-disciplinary interest in accounting, finance, and economics, with most infulence studies primarly confrom the fiancne and econice filed, and accounting has increasingly attention recent years (see work from Prof. Anna Costello from Accounting professor from Chicago University, and Prof Mariassunta Giannetti, Professor of Finance at the Stockholm School of Economics) -->
+
 
 <!-- Over the past three decades, many important theoretical and empirical studies on trade credit have come from the fields of finance and economics, while accounting research seems to slightly lagged behind. Although accounting research has increasingly focused on how accounting information affects the supply and demand of trade credit, a holistic view of how accounting information affects the trade credit market at whole and how trade credit networks function in the macroeconomy is still lacking. My research aims to fill this gap by providing an original and innovative perspective to deepen the understanding of trade credit from both microeconomic and macroeconomic perspectives. My research also expands the traditional motivation - the "financing advantage motivation" to incorporate other key drivers of trade credit, such as tax and product quality warranty considerations. -->
+<!-- 
+ While accounting research has increasingly focused on the impact of accounting information on trade credit decisions, a holistic view of its impact on the trade credit market and the role of trade credit networks in the macroeconomy is still missing. My research fills this gap by bridging both micro and macro perspectives, and expanding the traditional "financing advantage" motivation to include factors such as taxation and quality warranty consideration through empirical evidence. -->
 
- While accounting research has increasingly focused on the impact of accounting information on trade credit decisions, a holistic view of its impact on the trade credit market and the role of trade credit networks in the macroeconomy is still missing. My research fills this gap by bridging both micro and macro perspectives, and expanding the traditional "financing advantage" motivation to include factors such as taxation and quality warranty consideration through empirical evidence.
+My research primarily focuses on supply chain financing—a field with pioneering work rooted in finance and economics since the 1970s (see Schwartz, R. A. 1974 and works by Professor Mariassunta Giannetti at the Stockholm School of Economics) and gaining increased attention in accounting in recent years (see works by Professor Anna Costello at the University of Chicago).
+
+At a high level, my research provides three key insights: (1) why private firms are disadvantaged in the trade credit market despite their greater demand (my JMP), (2) how financial information and regulation lead to reallocation within the trade credit market, and (3) the role of trade credit networks in stabilizing or destabilizing the macroeconomy.
+
+Additionally, my work seeks to expand the traditional "financing advantage" motive for extending trade credit by incorporating factors such as taxation and quality warranty considerations through empirical analysis.
+
 
  <!-- I am very fortunate to be advised by Prof. Guochang Zhang, Prof. Travis Chow, and Prof. Derrald Stice. -->
 
